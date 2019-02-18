@@ -18,7 +18,7 @@ To find the best deep learning model, I experimented with 3 different models inc
 # Conclusion: 
 The deep learning model performed better than the radiologists on both the wrist and the finger dataset. So, I see a value in generalizing the model to all 7 datasets and together it will likely become a computer radiologist that performs better than the current human radiologists. 
 
-# For details regarding this project and my Experimental Results Please See the MURA Report Document.
+For details regarding this project and my Experimental Results Please See the MURA Report Document.
  
 # Citation: 
 BSD 3-Clause License
