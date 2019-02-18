@@ -13,7 +13,8 @@ Today, musculoskeletal conditions affect more than 1.7 billion people worldwide,
 # Experiments: 
 To find the best deep learning model, I experimented with 3 different models including: ResNet18, DenseNet161, and VGG16. I have also experimented with various other factors including: Convolution Neural Net, the number of epochs, and Pre-training. I chose to not test the effects of data augmentation on the dataset since there is enough variation in the dataset with images from all kinds of different view point, although images with more than one X-ray in the frame was taken out of the dataset during pre-processing. 
 
-# Final Model: VGG16 Model without ConvNet and with pre-training and 25 epochs.
+# Final Best Model: 
+VGG16 Model without ConvNet and with pre-training.
 
 # Conclusion: 
 The deep learning model performed better than the radiologists on both the wrist and the finger dataset. So, I see a value in generalizing the model to all 7 datasets and together it will likely become a computer radiologist that performs better than the current human radiologists. 
